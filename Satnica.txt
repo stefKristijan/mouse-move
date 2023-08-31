@@ -1,0 +1,30 @@
+01.08.2023.	UOMQ - izbacivanje groupCode kolone iz Document Catalog-a
+02.08.2023. UOMQ - objava posla na Quadient servis
+03.08.2023. UOMQ - Refaktoriranje projekta - repozitorijski sloj
+04.08.2023. UOMQ - Refaktoriranje projekta - servisni sloj
+
+
+07.08.2023. UOMQ - Refaktoriranje projekta - kontroleri i DTO-i
+08.08.2023. UOMQ - Implementacija konfiguracije za automatski prijenos poslova na Quadient
+09.08.2023. UOMQ - Integracija konfiguraciju u slušatelja za automatski prijenos poslova na Quadient
+10.08.2023. UOMQ front - migracija s vue-cli na vite
+11.08.2023. UOMQ front - migracija na vite u svrhu "build"-a za produkciju
+
+
+14.08.2023.	GO
+15.08.2023.	GO
+16.08.2023.	GO
+17.08.2023. GO
+18.08.2023.	GO
+
+
+21.08.2023.	UOMQ - implementacija potpunog uklanjanja dokumenta
+22.08.2023.	UOMQ - implementacija konfiguracije na dokumentima za enkripciju i validaciju e-maila
+23.08.2023.	UOMQ - konfiguracija internih kontakata
+24.08.2023.	UOMQ - Implementacija izvoza dokumenata
+25.08.2023.	UOMQ - Implementacija uvoza dokumenata
+
+
+28.08.2023.	UOMQ - Popravci i nadogradnje uvoza i izvoza dokumenata
+29.08.2023. UOMQ front - Implementacija SideBar-a
+30.08.2023. UOMQ front - Implementacija sklopljivog SideBar-a
